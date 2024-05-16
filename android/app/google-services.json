@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "878575711749",
+    "project_id": "week11-authentication",
+    "storage_bucket": "week11-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878575711749:android:211f63e9f1dcd31fa40e6c",
+        "android_client_info": {
+          "package_name": "com.bughowi.authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPGhdKVS3F3egVzGW4iNSfYOx_tjuuFZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878575711749:android:4ef8c2f9818ca567a40e6c",
+        "android_client_info": {
+          "package_name": "com.example.week11_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPGhdKVS3F3egVzGW4iNSfYOx_tjuuFZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
